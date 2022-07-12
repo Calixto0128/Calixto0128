@@ -1,6 +1,5 @@
-### Olá, Meu nome é Calixto!!!👾👨‍
- - 🔭 I'm currently studying programming ... 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calixto0128&show_icons=true&theme=algolia)
 <!--
 **Calixto0128/Calixto0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
