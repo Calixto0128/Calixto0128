@@ -9,7 +9,7 @@
 
 <div>
 <p>
-Sou um desenvolvedor full stack de nível iniciante capaz de entender uma presença na web desde o início - desde o conceito, navegação, layout e programação. Hábil em escrever código bem projetado, testável e eficiente usando as melhores práticas atuais em desenvolvimento back e front end. Aprendo rápido, trabalho duro e em equipe, proficiente em uma linguagem de script(Python) e iniciando a jornada com Html, Css, Js.
+Sou um Desenvolvedor Full Stack de nível iniciante capaz de entender uma presença na web desde o início - desde o conceito, navegação, layout e programação. Hábil em escrever código bem projetado, testável e eficiente usando as melhores práticas atuais em desenvolvimento back e front end. Aprendo rápido, trabalho duro e em equipe, proficiente em uma linguagem de script(Python) e iniciando a jornada com Html, Css, Js.
 </p>
 </div>
 
