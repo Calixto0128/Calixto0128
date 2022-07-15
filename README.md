@@ -39,15 +39,14 @@ Sou um Desenvolvedor Full Stack de nível iniciante capaz de entender uma presen
 
 # -My Portfolio, Click on the image...💡
 
-<p align="center">
-<a href="https://www.instagram.com/p/Cf6b0BoFoou/" target="_black"><img alt="https://www.criarportfolio.com/wp-content/uploads/2019/05/desenvolvedor.jpg" src="https://www.criarportfolio.com/wp-content/uploads/2019/05/desenvolvedor.jpg" width="500">
-</p>
 
-<p align="center">
+<a href="https://www.instagram.com/p/Cf6b0BoFoou/" target="_black"><img alt="https://www.criarportfolio.com/wp-content/uploads/2019/05/desenvolvedor.jpg" src="https://www.criarportfolio.com/wp-content/uploads/2019/05/desenvolvedor.jpg" width="500">
+
+
 <a href="https://www.instagram.com/techcalixto/" target="_black"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@CalixtoTech-blue?style=flat&logo=instagram">
 <a href="https://www.linkedin.com/in/m%C3%A1rcio-calisto-9a2071207/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@MárcioCalisto-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:calistomarcio6@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-calistomarcio6@gmail.com-blue?style=flat&logo=gmail"></a>
-</p>
+
 
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
