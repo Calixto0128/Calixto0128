@@ -16,6 +16,8 @@ Sou um Desenvolvedor Full Stack de nível iniciante capaz de entender uma presen
 
 <!-- <img align='center' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="100"> -->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Calixto0128)](https://git.io/streak-stats)
+
 ![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=Calixto0128&hide=contribs,prs&count_private=true&show_icons=true)
 
 
