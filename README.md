@@ -26,7 +26,7 @@ Sou um Desenvolvedor Full Stack de nível iniciante capaz de entender uma presen
    <img src="https://komarev.com/ghpvc/?username=Calixto0128">
 </a> -->
 
-# -most used languages 🌐
+# -Most used languages 🌐
 
 | [<img src="https://store-images.s-microsoft.com/image/apps.37972.13510798882847238.aaaa73f1-0fc5-480b-8619-538d563b087a.494567bd-9177-4350-b15c-f9b823cb508c?mode=scale&q=90&h=300&w=300" alt="Python" width="36">](https://www.python.org/) |  [<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Html" width="36">](https://www.w3schools.com/html/default.asp) |  [<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="Css" width="36">](https://www.w3schools.com/css/default.asp) | 
 
