@@ -18,8 +18,6 @@ Sou um Desenvolvedor Full Stack de nível iniciante capaz de entender uma presen
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Calixto0128)](https://git.io/streak-stats)
 
-![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=Calixto0128&hide=contribs,prs&count_private=true&show_icons=true)
-
 
 <!-- <a href="https://github.com/Calixto0128">
   <img src="https://img.shields.io/github/followers?Calixto0128">
