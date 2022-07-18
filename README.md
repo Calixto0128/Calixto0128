@@ -16,14 +16,12 @@ Sou um Desenvolvedor Full Stack de nível iniciante capaz de entender uma presen
 
 <!-- <img align='center' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="100"> -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Calixto0128)](https://git.io/streak-stats)
-
 
 <!-- <a href="https://github.com/Calixto0128">
   <img src="https://img.shields.io/github/followers?Calixto0128">
 </a>
 <a href="https://github.com/Calixto0128">
-   <img src="https://komarev.com/ghpvc/?username=Calixto0128">
+   <img src="https://komarev.com/ghpvc/?username=Calixto0128"
 </a> -->
 
 # -Most used languages 🌐
